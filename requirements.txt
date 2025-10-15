@@ -3,6 +3,8 @@ matplotlib == 3.10.0
 numpy == 2.0.2
 statsmodels == 0.14.5
 scipy == 1.15.2
+seaborn ==  0.13.2
+Scikit-learn = 1.6.1
 
 
 
