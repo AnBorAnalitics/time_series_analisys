@@ -5,7 +5,8 @@ statsmodels == 0.14.5
 scipy == 1.15.2
 seaborn ==  0.13.2
 Scikit-learn == 1.6.1
-
+xgboost == 3.0.5
+shap == 0.49.1
 
 
 
